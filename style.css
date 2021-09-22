@@ -1,0 +1,82 @@
+.navbar{
+    background-color: brown;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.jumbotron{
+    background-image: url('img/jumbotron.png');
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+
+.welcome{
+    text-align: center;
+}
+
+hr{
+    width: 150px;
+    
+}
+
+.satu{
+    display: flex;
+    justify-content: center;
+}
+
+.satu img{
+    margin-left: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    height: 200px;
+}
+
+.dua{
+    margin-top: 40px;
+}
+
+.tiga{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.card{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.carousel img{
+    height: 300px;
+}
+
+.form{
+    justify-content: center;
+}
+
+.support{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.support img{
+    margin-top: 30px;
+}
+
+.footer{
+    margin-top: 40px;
+    background-color: brown;
+    color: white;
+}
+
+.footer ul li{
+    list-style-type: none;
+}
+
+.powered{
+    text-align: center;
+}
